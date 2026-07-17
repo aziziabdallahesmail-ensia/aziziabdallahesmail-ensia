@@ -1,7 +1,7 @@
 
 
 # Azizi Abdellah Esmail
-3Y ENSIA | Aspiring ML / AI engineer | experienced in web and mobile development 
+4Y ENSIA | Aspiring ML / AI engineer | experienced in web and mobile development 
 
 
 ---
